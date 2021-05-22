@@ -16,5 +16,5 @@
 
 <h2 align="center">
 <img alt="Prints" title="Calculadora0" src="./src/assets/calculadora0.png" />
-<img alt="Print" title="Calculadora1" src="./src/assets/calculadora0.png" />
+<img alt="Print" title="Calculadora1" src="./src/assets/calculadora1.png" />
 </h2>
